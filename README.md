@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JennGoldring
 - 👀 I’m interested in photography, poetry, pottery, UX, and full stack development
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Java, Python, SQL, and React
 - 💞️ I’m looking to collaborate on fresh design projects
 - 📫 How to reach me ... jenngoldring@gmail.com
